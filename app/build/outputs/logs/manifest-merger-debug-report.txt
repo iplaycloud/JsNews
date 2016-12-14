@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:9:22-73
+application
+ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:11:5-33:19
+MERGED from [JsNews:swipeback:unspecified] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\JsNews\swipeback\unspecified\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:23.1.1] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.1] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\AndroidManifest.xml:9:5-20
+MERGED from [org.sufficientlysecure:html-textview:1.3] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\org.sufficientlysecure\html-textview\1.3\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:13:9-34
+	android:theme
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.iplay.jsnews.main.widget.MainActivity
+ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:18:13-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.iplay.jsnews.news.widget.NewsDetailActivity
+ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:27:9-32:20
+	android:label
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:29:13-63
+	android:theme
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:30:13-68
+	android:name
+		ADDED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml:28:13-75
+uses-sdk
+INJECTED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [JsNews:swipeback:unspecified] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\JsNews\swipeback\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.1.1] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.1.1] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:1.3.0] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.sufficientlysecure:html-textview:1.3] F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\org.sufficientlysecure\html-textview\1.3\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml
+		INJECTED from F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\src\main\AndroidManifest.xml

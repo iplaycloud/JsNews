@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_4d5042d6a016c964dfb5c5d28c6e4061e029aab6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_e69c8c811d16988ca7f0c701e0100813011c7dc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_c519153e2d6864f65d5dbb53b4e899422bd5ef55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ea13033eaf20e53f1a90f17d64175513fad44b1">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ed95dd44f7a9c3b89fc703856934e86ee698a923\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_89edf1a700e721e9db10ce8a7ea2972bdcffd94f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\exploded-aar\org.sufficientlysecure\html-textview\1.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bb3d9dfe7e6ea76ff7be8aafd0cd4a7e46fe3991">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.sufficientlysecure-html-textview-1.3_6d842a66689458da7341f5ddcfe2410fb3318ff2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_0331f31a53832e6d2a636e9e2b7bb26c07254d19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\org.sufficientlysecure\html-textview\1.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bb3d9dfe7e6ea76ff7be8aafd0cd4a7e46fe3991">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.sufficientlysecure-html-textview-1.3_06ff4a1122c03fb879c1e2137369c85c966b0404\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_b5d43bf8e37a4c7168ad99ddb188cd9c10a2f713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cdddb000e3c24deb137961ffa3d84598f3a32956">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ce3f136a2ca5a8e28d9bbe75dba034e036e19bda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_d79e0026d7170c3944ff238fd8db543014cd1d00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_85f3ff9a7deeee8ecfa9ae74ce4eb77d5e3ba26c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_c7fc3cbe3a8d348203039bebd742e5dc49a4650a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iplay\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_2768190985771311dcdbacb2473f183c549e7042\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iplay\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_e0b05174a44245a579c4ae9b3528d9f0447711cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_de3b6131af050d6c0bafc0f3df03e1e836dd6c5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_ab8160a9c4ce4745db8ccbe0f082dab2f9b7f3b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_d449a887ccce88d8696cdefc4cbd6248001ab796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iplay\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.0\1477ec5caf8319ab4b51eb43553cd66aa86fdea5\okhttp-2.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.7.0_19a2795ab15b20ec4afc6f01e4bc812e13d7895b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_eeee550590ff7602555632f0200760d7d70d6578\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_37b6e3e21abfda308413d5b614db1df61f88365d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_bfcd061aeadaac40e6840eb2c569a424a3aee5a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_8c6538337f93612e821745a134c64766a8e9afc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1ff35289c920b4c71a8f33974f46836f41cc7025">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\SimpleNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ab9c889e233cea3894cfdaa81cc7f3f28af98543\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d3def49c3a53a38c27d1957b5f0571a1b4c3986b">
+        <dex dex="F:\OneDrive\AndroidStudioProjects_pri\JsNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1d9324c3bb1be5cdbc349003a126863bc6bc2660\classes.dex" />
+    </item>
+
+</items>

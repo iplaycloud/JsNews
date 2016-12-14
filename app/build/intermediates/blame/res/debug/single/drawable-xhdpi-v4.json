@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\OneDrive\\AndroidStudioProjects_pri\\JsNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_left.png",
+        "source": "F:\\OneDrive\\AndroidStudioProjects_pri\\JsNews\\app\\build\\intermediates\\exploded-aar\\JsNews\\swipeback\\unspecified\\res\\drawable-xhdpi-v4\\shadow_left.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\AndroidStudioProjects_pri\\JsNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_bottom.png",
+        "source": "F:\\OneDrive\\AndroidStudioProjects_pri\\JsNews\\app\\build\\intermediates\\exploded-aar\\JsNews\\swipeback\\unspecified\\res\\drawable-xhdpi-v4\\shadow_bottom.png"
+    },
+    {
+        "merged": "F:\\OneDrive\\AndroidStudioProjects_pri\\JsNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_right.png",
+        "source": "F:\\OneDrive\\AndroidStudioProjects_pri\\JsNews\\app\\build\\intermediates\\exploded-aar\\JsNews\\swipeback\\unspecified\\res\\drawable-xhdpi-v4\\shadow_right.png"
+    }
+]
